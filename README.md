@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0541-reverse-string-ii](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0541-reverse-string-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0345-reverse-vowels-of-a-string) |
+| [0541-reverse-string-ii](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0541-reverse-string-ii) |
 | [0709-to-lower-case](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0709-to-lower-case) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Stack

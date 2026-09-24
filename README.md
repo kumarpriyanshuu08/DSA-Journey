@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0682-baseball-game](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -43,10 +44,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0682-baseball-game) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0682-baseball-game) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1929-concatenation-of-array](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/1929-concatenation-of-array) |
 ## Hash Table

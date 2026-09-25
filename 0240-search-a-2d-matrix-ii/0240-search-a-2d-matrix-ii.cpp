@@ -10,8 +10,9 @@ public:
         }
         else if ( target < mat[r][c]){
             c--;
-        } else 
-        r++;
+        } else {
+            r++;
+        }
       }
       return false;
     }

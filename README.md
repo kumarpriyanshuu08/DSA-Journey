@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0054-spiral-matrix](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0682-baseball-game) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1929-concatenation-of-array](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/1929-concatenation-of-array) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0240-search-a-2d-matrix-ii) |
 ## Divide and Conquer

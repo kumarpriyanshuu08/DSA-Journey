@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/1929-concatenation-of-array) |
+| [2965-find-missing-and-repeated-values](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2965-find-missing-and-repeated-values](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/2965-find-missing-and-repeated-values) |
 ## Sorting
 |  |
 | ------- |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0069-sqrtx) |
+| [2965-find-missing-and-repeated-values](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/2965-find-missing-and-repeated-values) |
 ## Newton's Method
 |  |
 | ------- |
@@ -115,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0240-search-a-2d-matrix-ii) |
+| [2965-find-missing-and-repeated-values](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
 | ------- |

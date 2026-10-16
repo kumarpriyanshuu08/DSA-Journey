@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0054-spiral-matrix](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0078-subsets) |
 | [0162-find-peak-element](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0204-count-primes](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0204-count-primes) |
@@ -166,4 +167,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0204-count-primes) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->

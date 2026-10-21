@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0204-count-primes) |
 | [0509-fibonacci-number](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0509-fibonacci-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2965-find-missing-and-repeated-values](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/2965-find-missing-and-repeated-values) |
 ## Newton's Method
 |  |
@@ -178,4 +179,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0090-subsets-ii) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->

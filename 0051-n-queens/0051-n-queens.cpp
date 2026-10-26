@@ -38,7 +38,7 @@ void nQueens(vector<string> &board, int row, int n,vector<vector<string>>&ans ){
         if(isSafe(board,row,i,n)){
             board[row][i]='Q';
             nQueens(board,row+1,n,ans);
-             board[row][i]='.';
+            board[row][i]='.';
         }
     }
 }

@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0345-reverse-vowels-of-a-string) |
+| [0412-fizz-buzz](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0412-fizz-buzz) |
 | [0541-reverse-string-ii](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0541-reverse-string-ii) |
 | [0709-to-lower-case](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0709-to-lower-case) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0682-baseball-game) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1929-concatenation-of-array](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/1929-concatenation-of-array) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0728-self-dividing-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |

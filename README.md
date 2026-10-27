@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0912-sort-an-array](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -86,12 +87,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0912-sort-an-array](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2784-check-if-array-is-good](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/2784-check-if-array-is-good) |
 ## Counting Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Binary Search
 |  |
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0240-search-a-2d-matrix-ii) |
+| [0912-sort-an-array](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0912-sort-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -196,4 +200,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0051-n-queens) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->

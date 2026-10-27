@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0509-fibonacci-number) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0090-subsets-ii) |
+| [0231-power-of-two](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0231-power-of-two) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Algorithm X
 |  |

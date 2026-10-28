@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/1480-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/1929-concatenation-of-array) |
 | [2784-check-if-array-is-good](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/2784-check-if-array-is-good) |
 | [2965-find-missing-and-repeated-values](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/2965-find-missing-and-repeated-values) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0240-search-a-2d-matrix-ii) |
+| [1672-richest-customer-wealth](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/1672-richest-customer-wealth) |
 | [2965-find-missing-and-repeated-values](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |

@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0367-valid-perfect-square](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0728-self-dividing-numbers) |

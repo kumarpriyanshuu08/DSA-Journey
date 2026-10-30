@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0912-sort-an-array](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0912-sort-an-array) |
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -127,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0728-self-dividing-numbers) |
@@ -201,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Algorithm X
 |  |

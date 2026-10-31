@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0682-baseball-game](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0704-binary-search) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0912-sort-an-array](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0912-sort-an-array) |

@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0682-baseball-game](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0704-binary-search) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2784-check-if-array-is-good](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/2784-check-if-array-is-good) |
 | [2965-find-missing-and-repeated-values](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/2965-find-missing-and-repeated-values) |

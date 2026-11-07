@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0912-sort-an-array](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/1470-shuffle-the-array) |
@@ -97,12 +98,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0912-sort-an-array](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2784-check-if-array-is-good](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/2784-check-if-array-is-good) |
 ## Counting Sort
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0912-sort-an-array) |
+| [1051-height-checker](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Binary Search
 |  |
@@ -237,4 +240,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0237-delete-node-in-a-linked-list) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->

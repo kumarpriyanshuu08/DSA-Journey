@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0090-subsets-ii) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/kumarpriyanshuu08/DSA-Journey/tree/master/0231-power-of-two) |
